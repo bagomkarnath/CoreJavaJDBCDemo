@@ -1,0 +1,10 @@
+create table
+
+CREATE TABLE EMPLOYEE (EMP_ID int, LAST_NAME varchar(255), FIRST_NAME varchar(255), ADDRESS varchar(255), CITY varchar(255));
+
+
+insert data
+
+INSERT INTO EMPLOYEE values (101, 'Haris', 'Tery', 'Abs apartments', 'Vegas');
+
+INSERT INTO EMPLOYEE values (102, 'McGregor', 'Ami', 'Ocean apartments', 'Vegas');
